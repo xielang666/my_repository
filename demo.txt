@@ -1,3 +1,7 @@
 print('hello world')
 
 python study
+
+To the world you may be one person, but to one person you may be the world.
+
+第三个版本
